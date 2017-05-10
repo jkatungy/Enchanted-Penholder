@@ -25,5 +25,9 @@ The enchanted penholder transmits the collected data through particle's publish 
 Background Sound Display
 
 ## Precedents
-The closest similarity to the enchanted penholder is an indoor environmental quality measurement device used for post occupancy evaluation by a team of University of South California researchers. Their device (image below) was purposely built for the exercise. It was handed out to occupants at the start of the experiment and retrieved afterwards. It more compact and is not meant to be an ambient device.
+The closest similarity to the enchanted penholder is an indoor environmental quality measurement device used for post occupancy evaluation by a team of University of South California researchers (Jazizadeh and Becerit-Gerber, 2012). Their device (image below) was purposely built for the exercise. It was handed out to occupants at the start of the experiment and retrieved afterwards. It more compact and is not meant to be an ambient device.
 Similar Indoor measurement device
+
+
+## References
+1. Jazizadeh. F., Becerik-Gerber. B. (2012), Toward Adaptive Comfort Measurement in Office Buildings Using Participatory Sensing for End User Driven Control, Building Systems, Toronto.
