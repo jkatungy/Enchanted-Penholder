@@ -1,5 +1,7 @@
 # Enchanted-Penholder
+
 ![Enchanted Penholder](https://github.com/jkatungy/Enchanted-Penholder/blob/master/EnchantedPenholderOn.JPG?raw=true)
+
 ## Final project for Physical computing class
 The enchanted penholder measures and displays indoor environmental conditions in addition to ... yes ... holding pens and pencils. The device is equiped with sensors to measure temperature, air flow, CO2, light levels and background sound. Its modularity allows additional sensors to be afixed to it - for example, CO, PM 2.5, VOCs. 
 
@@ -40,11 +42,15 @@ Disassembled Modules
 
 ## Data Visualization
 The enchanted penholder transmits the collected data through particle's publish feature to an online database - [ThingSpeak](https://thingspeak.com/). The data is presented in graphical form - the image below shows a screen print of the background sound display.
+
 ![Particle IDE integration](https://github.com/jkatungy/Enchanted-Penholder/blob/master/particle_io_console.JPG?raw=true)
+
 ![Background Sound Display](https://github.com/jkatungy/Enchanted-Penholder/blob/master/SoundChart.JPG?raw=true)
 
 ## Precedents
 The closest similarity to the enchanted penholder is an indoor environmental quality measurement device used for post occupancy evaluation by a team of University of South California researchers (Jazizadeh and Becerit-Gerber, 2012). Their device (image below) was purposely built for the exercise. It was handed out to occupants at the start of the experiment and retrieved afterwards. It more compact and is not meant to be an ambient device.
+
+Similar indoor measurement device
 
 ![Similar Indoor measurement device](https://github.com/jkatungy/Enchanted-Penholder/blob/master/Precedent.JPG?raw=true)
 
