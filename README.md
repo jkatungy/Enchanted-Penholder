@@ -11,7 +11,13 @@ To a building performance evaluator, records of data collected by the enchanted 
 
 ## The Device
 The idea behind the device was to take an existing device in the usual ensemble of a typical office worker and equip it with sensing capabilities, thus the enchanted penholder. The sensors are built into modules that connect to a particle photon microprocessor that is permanently installed into the device. The photon runs an upgradable code for the sensors. Modularity of the sensor boxes allows customization of the data collection to any parameters of choice. Modularity allows for expansion or even reduction of modules.
+
+Prototypes
+
 ![Prototypes](https://github.com/jkatungy/Enchanted-Penholder/blob/master/Prototypes.JPG?raw=true)
+
+Final Product
+
 ![Final Product](https://github.com/jkatungy/Enchanted-Penholder/blob/master/EnchantedPenholder.JPG?raw=true)
 
 The current device configuration contains 6 modules and a penholder section that is rounded at the front with a living hinge. The modules and frame are porous to expose the sensors to the air circulation as much as possible. The six modules are:
