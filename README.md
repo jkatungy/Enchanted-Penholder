@@ -22,6 +22,16 @@ The current device configuration contains 6 modules and a penholder section that
 5. an air flow sensor module
 6. a temperature module which shares the same sensor with the air flow module. In the temperature module is an indicator light to alert the occupant when the temperature exceeds a recommended threshold. Such an alert indicator would be integrated into each of the sensor modules.
 
+The [video shows assembly and disassembly of the modules](https://youtu.be/jMIEHv8Mej4) of the enchanted penholder.
+
+Assembled Modules
+
+![Assembled Modules](https://github.com/jkatungy/Enchanted-Penholder/blob/master/EnchantedPenholderAssembled.JPG?raw=true)
+
+Disassembled Modules
+
+![Disassembled Modules](https://github.com/jkatungy/Enchanted-Penholder/blob/master/EnchantedPenholder_disassembled.JPG?raw=true)
+
 ## Data Visualization
 The enchanted penholder transmits the collected data through particle's publish feature to an online database - [ThingSpeak](https://thingspeak.com/). The data is presented in graphical form - the image below shows a screen print of the background sound display.
 ![Particle IDE integration](https://github.com/jkatungy/Enchanted-Penholder/blob/master/particle_io_console.JPG?raw=true)
@@ -29,9 +39,11 @@ The enchanted penholder transmits the collected data through particle's publish 
 
 ## Precedents
 The closest similarity to the enchanted penholder is an indoor environmental quality measurement device used for post occupancy evaluation by a team of University of South California researchers (Jazizadeh and Becerit-Gerber, 2012). Their device (image below) was purposely built for the exercise. It was handed out to occupants at the start of the experiment and retrieved afterwards. It more compact and is not meant to be an ambient device.
+
 ![Similar Indoor measurement device](https://github.com/jkatungy/Enchanted-Penholder/blob/master/Precedent.JPG?raw=true)
 
 The Enchanted Penholder integrates unobtrusively into a workstation.
+
 ![workstation setting](https://github.com/jkatungy/Enchanted-Penholder/blob/master/EnchantedPenholder_Workstation.JPG?raw=true)
 
 
